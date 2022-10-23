@@ -1,0 +1,105 @@
+{"level":30,"time":"2022-10-16T00:00:15.740Z","pid":37060,"hostname":"blue-service","msg":"Listening on 64790"}
+{"level":30,"time":"2022-10-16T00:00:16.106Z","pid":37060,"hostname":"blue-service","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-10-16T00:00:16.107Z","pid":37060,"hostname":"blue-service","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-10-16T00:00:16.113Z","pid":37060,"hostname":"blue-service","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-10-16T00:00:16.113Z","pid":37060,"hostname":"blue-service","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-10-16T00:00:16.139Z","pid":37060,"hostname":"blue-service","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2022-10-16T00:00:16.969Z","pid":37060,"hostname":"blue-service","msg":"End of node method newBrowser"}
+{"level":30,"time":"2022-10-16T00:00:16.974Z","pid":37060,"hostname":"blue-service","msg":"Start of node method newPage"}
+{"level":30,"time":"2022-10-16T00:00:16.974Z","pid":37060,"hostname":"blue-service","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2022-10-16T00:00:16.994Z","pid":37060,"hostname":"blue-service","msg":"Changed active context"}
+{"level":30,"time":"2022-10-16T00:00:17.196Z","pid":37060,"hostname":"blue-service","msg":"Video path: undefined"}
+{"level":30,"time":"2022-10-16T00:00:17.196Z","pid":37060,"hostname":"blue-service","msg":"Changed active page"}
+{"level":30,"time":"2022-10-16T00:00:17.917Z","pid":37060,"hostname":"blue-service","msg":"End of node method newPage"}
+{"level":30,"time":"2022-10-16T00:00:17.923Z","pid":37060,"hostname":"blue-service","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-10-16T00:00:17.923Z","pid":37060,"hostname":"blue-service","msg":"Strict mode is enabled, find Locator with css=input[name=email] in page."}
+{"level":30,"time":"2022-10-16T00:00:17.980Z","pid":37060,"hostname":"blue-service","msg":"End of node method fillText"}
+{"level":30,"time":"2022-10-16T00:00:17.983Z","pid":37060,"hostname":"blue-service","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-10-16T00:00:17.983Z","pid":37060,"hostname":"blue-service","msg":"Strict mode is enabled, find Locator with css=input[name=password] in page."}
+{"level":30,"time":"2022-10-16T00:00:18.003Z","pid":37060,"hostname":"blue-service","msg":"End of node method fillText"}
+{"level":30,"time":"2022-10-16T00:00:18.007Z","pid":37060,"hostname":"blue-service","msg":"Start of node method click"}
+{"level":30,"time":"2022-10-16T00:00:18.007Z","pid":37060,"hostname":"blue-service","msg":"Strict mode is enabled, find Locator with css=button >> text=Entrar in page."}
+{"level":30,"time":"2022-10-16T00:00:18.093Z","pid":37060,"hostname":"blue-service","msg":"End of node method click"}
+{"level":30,"time":"2022-10-16T00:00:18.104Z","pid":37060,"hostname":"blue-service","msg":"Start of node method getText"}
+{"level":30,"time":"2022-10-16T00:00:18.105Z","pid":37060,"hostname":"blue-service","msg":"Strict mode is enabled, find Locator with css=.header-content strong in page."}
+{"level":30,"time":"2022-10-16T00:00:18.160Z","pid":37060,"hostname":"blue-service","msg":"Retrieved text for element css=.header-content strong containing Aquela figurinha incrível a um clique de distância."}
+{"level":30,"time":"2022-10-16T00:00:18.161Z","pid":37060,"hostname":"blue-service","msg":"End of node method getText"}
+{"level":30,"time":"2022-10-16T00:00:18.166Z","pid":37060,"hostname":"blue-service","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-10-16T00:00:18.172Z","pid":37060,"hostname":"blue-service","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-10-16T00:00:18.176Z","pid":37060,"hostname":"blue-service","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-10-16T00:00:18.180Z","pid":37060,"hostname":"blue-service","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-10-16T00:00:18.184Z","pid":37060,"hostname":"blue-service","msg":"Changed active context"}
+{"level":30,"time":"2022-10-16T00:00:18.184Z","pid":37060,"hostname":"blue-service","msg":"Changing current active page"}
+{"level":30,"time":"2022-10-16T00:00:18.185Z","pid":37060,"hostname":"blue-service","msg":"Changed active page"}
+{"level":30,"time":"2022-10-16T00:00:18.192Z","pid":37060,"hostname":"blue-service","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-10-16T00:00:18.196Z","pid":37060,"hostname":"blue-service","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-10-16T00:00:18.200Z","pid":37060,"hostname":"blue-service","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2022-10-16T00:00:18.200Z","pid":37060,"hostname":"blue-service","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2022-10-16T00:00:18.203Z","pid":37060,"hostname":"blue-service","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2022-10-16T00:00:18.203Z","pid":37060,"hostname":"blue-service","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2022-10-16T00:00:18.210Z","pid":37060,"hostname":"blue-service","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-10-16T00:00:18.213Z","pid":37060,"hostname":"blue-service","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-10-16T00:00:18.216Z","pid":37060,"hostname":"blue-service","msg":"Changed active context"}
+{"level":30,"time":"2022-10-16T00:00:18.216Z","pid":37060,"hostname":"blue-service","msg":"Changing current active page"}
+{"level":30,"time":"2022-10-16T00:00:18.216Z","pid":37060,"hostname":"blue-service","msg":"Changed active page"}
+{"level":30,"time":"2022-10-16T00:00:18.220Z","pid":37060,"hostname":"blue-service","msg":"Start of node method closeContext"}
+{"level":30,"time":"2022-10-16T00:00:18.237Z","pid":37060,"hostname":"blue-service","msg":"Removed page=5e562315-e105-4e83-839b-24793018a3ec from context=e9a0ea59-53c9-4092-861f-63ed422c6de0 page stack"}
+{"level":30,"time":"2022-10-16T00:00:18.256Z","pid":37060,"hostname":"blue-service","msg":"End of node method closeContext"}
+{"level":30,"time":"2022-10-16T00:00:18.264Z","pid":37060,"hostname":"blue-service","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-10-16T00:00:18.264Z","pid":37060,"hostname":"blue-service","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-10-16T00:00:18.267Z","pid":37060,"hostname":"blue-service","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2022-10-16T00:00:18.810Z","pid":37060,"hostname":"blue-service","msg":"End of node method newBrowser"}
+{"level":30,"time":"2022-10-16T00:00:18.813Z","pid":37060,"hostname":"blue-service","msg":"Start of node method newPage"}
+{"level":30,"time":"2022-10-16T00:00:18.813Z","pid":37060,"hostname":"blue-service","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2022-10-16T00:00:18.829Z","pid":37060,"hostname":"blue-service","msg":"Changed active context"}
+{"level":30,"time":"2022-10-16T00:00:18.994Z","pid":37060,"hostname":"blue-service","msg":"Video path: undefined"}
+{"level":30,"time":"2022-10-16T00:00:18.994Z","pid":37060,"hostname":"blue-service","msg":"Changed active page"}
+{"level":30,"time":"2022-10-16T00:00:19.881Z","pid":37060,"hostname":"blue-service","msg":"End of node method newPage"}
+{"level":30,"time":"2022-10-16T00:00:19.885Z","pid":37060,"hostname":"blue-service","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2022-10-16T00:00:20.472Z","pid":37060,"hostname":"blue-service","msg":"End of node method newBrowser"}
+{"level":30,"time":"2022-10-16T00:00:20.475Z","pid":37060,"hostname":"blue-service","msg":"Start of node method newPage"}
+{"level":30,"time":"2022-10-16T00:00:20.475Z","pid":37060,"hostname":"blue-service","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2022-10-16T00:00:20.484Z","pid":37060,"hostname":"blue-service","msg":"Changed active context"}
+{"level":30,"time":"2022-10-16T00:00:20.663Z","pid":37060,"hostname":"blue-service","msg":"Video path: undefined"}
+{"level":30,"time":"2022-10-16T00:00:20.664Z","pid":37060,"hostname":"blue-service","msg":"Changed active page"}
+{"level":30,"time":"2022-10-16T00:00:21.220Z","pid":37060,"hostname":"blue-service","msg":"End of node method newPage"}
+{"level":30,"time":"2022-10-16T00:00:21.226Z","pid":37060,"hostname":"blue-service","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-10-16T00:00:21.226Z","pid":37060,"hostname":"blue-service","msg":"Strict mode is enabled, find Locator with css=input[name=email] in page."}
+{"level":30,"time":"2022-10-16T00:00:21.283Z","pid":37060,"hostname":"blue-service","msg":"End of node method fillText"}
+{"level":30,"time":"2022-10-16T00:00:21.286Z","pid":37060,"hostname":"blue-service","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-10-16T00:00:21.286Z","pid":37060,"hostname":"blue-service","msg":"Strict mode is enabled, find Locator with css=input[name=password] in page."}
+{"level":30,"time":"2022-10-16T00:00:21.308Z","pid":37060,"hostname":"blue-service","msg":"End of node method fillText"}
+{"level":30,"time":"2022-10-16T00:00:21.310Z","pid":37060,"hostname":"blue-service","msg":"Start of node method click"}
+{"level":30,"time":"2022-10-16T00:00:21.310Z","pid":37060,"hostname":"blue-service","msg":"Strict mode is enabled, find Locator with css=button >> text=Entrar in page."}
+{"level":30,"time":"2022-10-16T00:00:21.359Z","pid":37060,"hostname":"blue-service","msg":"End of node method click"}
+{"level":30,"time":"2022-10-16T00:00:21.363Z","pid":37060,"hostname":"blue-service","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-10-16T00:00:21.363Z","pid":37060,"hostname":"blue-service","msg":"Strict mode is enabled, find Locator with css=.Toastify__toast-body div >> text=Credenciais inválidas, tente novamente! in page."}
+{"level":30,"time":"2022-10-16T00:00:21.370Z","pid":37060,"hostname":"blue-service","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2022-10-16T00:00:21.374Z","pid":37060,"hostname":"blue-service","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-10-16T00:00:21.379Z","pid":37060,"hostname":"blue-service","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-10-16T00:00:21.381Z","pid":37060,"hostname":"blue-service","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-10-16T00:00:21.384Z","pid":37060,"hostname":"blue-service","msg":"End of node method getBrowserCatalog"}
+================= Original suppressed error =================
+Error: No context for id context=dbb63771-a952-4332-a52e-29ffd8951449. Open contexts: context=ff2953fc-efb1-40be-b5ad-efbbf22d4480
+    at _switchContext (C:\Users\Deborah Mancilha\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:8335:11)
+    at switchContext (C:\Users\Deborah Mancilha\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:8386:9)
+    at PlaywrightServer.switchContext (C:\Users\Deborah Mancilha\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:8664:30)
+    at handleUnary (C:\Users\Deborah Mancilha\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:688:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+=============================================================
+{"level":30,"time":"2022-10-16T00:00:21.394Z","pid":37060,"hostname":"blue-service","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-10-16T00:00:21.397Z","pid":37060,"hostname":"blue-service","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-10-16T00:00:21.399Z","pid":37060,"hostname":"blue-service","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-10-16T00:00:21.402Z","pid":37060,"hostname":"blue-service","msg":"End of node method getBrowserCatalog"}
+================= Original suppressed error =================
+Error: No context for id context=dbb63771-a952-4332-a52e-29ffd8951449. Open contexts: context=ff2953fc-efb1-40be-b5ad-efbbf22d4480
+    at _switchContext (C:\Users\Deborah Mancilha\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:8335:11)
+    at switchContext (C:\Users\Deborah Mancilha\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:8386:9)
+    at PlaywrightServer.switchContext (C:\Users\Deborah Mancilha\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:8664:30)
+    at handleUnary (C:\Users\Deborah Mancilha\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:688:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+=============================================================
+{"level":30,"time":"2022-10-16T00:00:21.448Z","pid":37060,"hostname":"blue-service","msg":"Start of node method closeAllBrowsers"}
+{"level":30,"time":"2022-10-16T00:00:21.629Z","pid":37060,"hostname":"blue-service","msg":"Removed page=aa111f52-1b97-4dc0-8352-ca6028311ccb from context=dbb63771-a952-4332-a52e-29ffd8951449 page stack"}
+{"level":30,"time":"2022-10-16T00:00:21.812Z","pid":37060,"hostname":"blue-service","msg":"Removed page=dd0e8b43-890a-42e1-bfed-4ee48bbc9120 from context=ff2953fc-efb1-40be-b5ad-efbbf22d4480 page stack"}
+{"level":30,"time":"2022-10-16T00:00:21.974Z","pid":37060,"hostname":"blue-service","msg":"End of node method closeAllBrowsers"}
